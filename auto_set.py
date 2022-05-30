@@ -17,7 +17,7 @@ def set_env():
             without_white_spaces = []
             without_white_spaces.append(keys_value[0].strip())
             without_white_spaces.append(keys_value[1].strip())
-            print(keys_value)
+            print(without_white_spaces)
             Chrome_browser.implicitly_wait(20)
             if line.strip() == None:
                 i -= 1
