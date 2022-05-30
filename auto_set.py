@@ -85,7 +85,4 @@ set_env()
 
 Chrome_browser.quit()
 
-# uopilul@gmail.com
-# Voineasa44@
-
 "/html/body/div[5]/main/div[2]/div[2]/ul/li[2]/div/div[2]/div/div/form/table/tbody/tr/td[1]/div/input"
